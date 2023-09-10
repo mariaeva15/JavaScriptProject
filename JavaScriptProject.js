@@ -49,7 +49,7 @@ function listNFTs () {
         console.log("\t\tWeight: \t\t" +NFTs[i].weight + " kilograms");
         console.log("\t\tAbilities: \t" +NFTs[i].abilities);
         console.log("\nStats: \n");
-        console.log("\t\tHP: \t\t\t\t" +NFTs[i].hp);
+        console.log("\t\tHP: \t\t\t" +NFTs[i].hp);
         console.log("\t\tAttack: \t\t" +NFTs[i].attack);
         console.log("\t\tDefense: \t\t" +NFTs[i].defense);
         console.log("\t\tSpeed: \t\t\t" +NFTs[i].speed);
